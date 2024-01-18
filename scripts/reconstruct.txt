@@ -1,0 +1,19 @@
+elec:
+    elec1
+
+makeup:
+    makeup1
+    makeup2
+
+shoe:
+    shoe1
+    (shoe_door_capet)
+
+
+Home:
+    Home2
+    Home3
+Food:
+    Food2
+    
+

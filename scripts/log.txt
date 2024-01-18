@@ -1,0 +1,52 @@
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/shoe_dressing_room2/images
+shoe_dressing_room2.mp4 spend time: 1617.2301750183105
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/elec_wooden_table_computer/images
+elec_wooden_table_computer.mp4 spend time: 855.7992091178894
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/makeup_dresser_table/images
+makeup_dresser_table.mp4 spend time: 2106.670823574066
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/makeup_table_wooden/images
+makeup_table_wooden.mp4 spend time: 4170.827842950821
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/elec_women_speaker/images
+elec_women_speaker.mp4 spend time: 146.88732409477234
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/makeup_woman_table/images
+makeup_woman_table.mp4 spend time: 113.09544682502747
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/elec_bed_cup/images
+elec_bed_cup.mp4 spend time: 345.3652195930481
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/shoe_dressing_room/images
+shoe_dressing_room.mp4 spend time: 2769.6084072589874
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/shoe_door_capet/images
+shoe_door_capet.mp4 spend time: 333.72674584388733
+delete /hhd2/home/Code/lzl_gen/nerf_code/tapall_demo_images/shoe_door_bamboo/images
+shoe_door_bamboo.mp4 spend time: 1049.2228138446808
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home2/images
+Home2.mp4 spend time: 502.09015560150146
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Food1/images
+Food1.mp4 spend time: 549.5582728385925
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home1/images
+Home1.mp4 spend time: 554.2400434017181
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Food2/images
+Food2.mp4 spend time: 316.42424631118774
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home3/images
+Home3.mp4 spend time: 181.30036664009094
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home4/images
+Home4.mp4 spend time: 203.8074905872345
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home2/images
+Home2.mp4 spend time: 520.6308164596558
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home2/images
+Home2.mp4 spend time: 1094.5586943626404
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Food1/images
+Food1.mp4 spend time: 1017.2533552646637
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home1/images
+Home1.mp4 spend time: 1003.4866943359375
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Food2/images
+Food2.mp4 spend time: 7301.302120447159
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home3/images
+Home3.mp4 spend time: 383.56188774108887
+delete /hhd2/home/Code/lzl_gen/nerf_code/mingqi_images/Home4/images
+Home4.mp4 spend time: 1175.150140762329
+delete /hhd2/home/Code/lzl_gen/nerf_code/retry_images/Food1/images
+Food1.mp4 spend time: 911.1739478111267
+delete /hhd2/home/Code/lzl_gen/nerf_code/retry_images/Food2/images
+Food2.mp4 spend time: 5217.517439126968
+delete /hhd2/home/Code/lzl_gen/nerf_code/retry_images/shoe_door_capet/images
+shoe_door_capet.mp4 spend time: 326.34038186073303
